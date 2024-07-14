@@ -9,7 +9,7 @@ local Settings = {
 	LeftKey = Enum.KeyCode.A,
 	BackwardKey = Enum.KeyCode.S,
 	RightKey = Enum.KeyCode.D,
-	UpKey = Enum.KeyCode.E,
+	UpKey = Enum.KeyCode.Space,
 	DownKey = Enum.KeyCode.Q,
 	
 }
