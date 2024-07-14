@@ -1,17 +1,15 @@
 local Settings = {
-	
-	Speed = 5,
-	SprintSpeed = 30,
-	ToggleKey = Enum.KeyCode.LeftAlt,
-	SprintKey = Enum.KeyCode.LeftShift,
-	
-	ForwardKey = Enum.KeyCode.W,
-	LeftKey = Enum.KeyCode.A,
-	BackwardKey = Enum.KeyCode.S,
-	RightKey = Enum.KeyCode.D,
-	UpKey = Enum.KeyCode.Space,
-	DownKey = Enum.KeyCode.LeftControl,
-	
+    Speed = 5,
+    SprintSpeed = 30,
+    ToggleKey = Enum.KeyCode.LeftAlt,
+    SprintKey = Enum.KeyCode.LeftShift,
+    
+    ForwardKey = Enum.KeyCode.W,
+    LeftKey = Enum.KeyCode.A,
+    BackwardKey = Enum.KeyCode.S,
+    RightKey = Enum.KeyCode.D,
+    UpKey = Enum.KeyCode.Space,
+    DownKey = Enum.KeyCode.LeftControl,
 }
 
 local Screen = Instance.new("ScreenGui",game.CoreGui)
